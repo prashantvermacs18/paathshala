@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192129375524",
+    "firebase_url": "https://paathshala-c26a9.firebaseio.com",
+    "project_id": "paathshala-c26a9",
+    "storage_bucket": "paathshala-c26a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192129375524:android:35f672598e5bee494567b1",
+        "android_client_info": {
+          "package_name": "com.example.paathshala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192129375524-lctb17d9jkmqqil3f9bl954o8jf102bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paathshala",
+            "certificate_hash": "c5e04b779b4c35ba8a8203e8198244e1aeeb29bd"
+          }
+        },
+        {
+          "client_id": "192129375524-dh25ob3rvnqetc9d64bp2kfqcgc7umn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYOupAg5DmigaWNukWuzm3PotCtODmEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192129375524-dh25ob3rvnqetc9d64bp2kfqcgc7umn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
